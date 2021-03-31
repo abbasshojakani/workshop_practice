@@ -12,3 +12,5 @@ n=5
 print("hello world")
 
 array=np.zeros(n)
+array=np.cos(np.arange(n))
+print(array)
